@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/InvertirArgentina/precache-manifest.889e51caf1e001f16d0d4c74397a7a16.js"
+  "/InvertirArgentina/precache-manifest.b9f014343ef1b507ab38dc2cf9fd1b6a.js"
 );
 
 self.addEventListener('message', (event) => {
