@@ -62,14 +62,14 @@ const index1 = () => {
         alignItems="center"
       >
         <Typography component="h3" variant="h3">
-          Lista de Precios del Dolar
+          Lista de Interés en Plazos Fijos
         </Typography>
         <Typography component="h4" variant="h4" align="center" color="textSecondary" gutterBottom>
-          Listado en diferente proveedores, con el valor actual del dolar y algunos detalles como variación y spread.
+          Listado en diferente proveedores, con el valor actual de interés.
         </Typography>
         <PlazosFijosTableFetch url={url} />
         <Typography component="section" variant="body1">
-          Entre las características que posee la tabla son: Búsqueda(Search), escribiendo palabras claves en campo de texto de búsqueda. Descarga en formato .CVS, para manipulación posterior en otros software y ordenamiento ascendente y desendente, por columnas, clickeando en sus correspondientes identificadores(Entidad, Compra, Venta, Variación, Spread).
+          Entre las características que posee la tabla son: Búsqueda(Search), escribiendo palabras claves en campo de texto de búsqueda. Descarga en formato .CVS, para manipulación posterior en otros software y ordenamiento ascendente y desendente, por columnas, clickeando en sus correspondientes identificadores.
         </Typography>
         <Typography component="section" variant="body2">
           Los datos obtenidos se actualizan cada hora.
