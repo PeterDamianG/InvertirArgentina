@@ -71,7 +71,7 @@ Ya podrá probarlo en su propio entorno.
 ----
 
 ## Screenshots - Imágenes
-Imágenes reducidas y aplazadas para mejor manejo del Readme, si deseas revisar las originales ve a: [Imágenes](https://github.com/PeterDamianG/InvertirArgentina/tree/master/screenshots)
+Imágenes reducidas y aplanadas para mejor manejo del Readme, si deseas revisar las originales ve a: [Imágenes](https://github.com/PeterDamianG/InvertirArgentina/tree/master/screenshots)
 
 **Screenshot de la Home/Inicio sin estar logeado:**
 <img src="screenshots/home.jpg" alt="home" width="800" height="400" />
