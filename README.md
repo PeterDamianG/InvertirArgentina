@@ -71,39 +71,39 @@ Ya podrá probarlo en su propio entorno.
 ----
 
 ## Screenshots - Imágenes
-Imágenes reducidas para mejor manejo del Readme, si deseas revisar las originales ve a: [Imágenes](https://github.com/PeterDamianG/InvertirArgentina/tree/master/screenshots)
+Imágenes reducidas y aplazadas para mejor manejo del Readme, si deseas revisar las originales ve a: [Imágenes](https://github.com/PeterDamianG/InvertirArgentina/tree/master/screenshots)
 
-*Screenshot de la Home/Inicio sin estar logeado:*
+**Screenshot de la Home/Inicio sin estar logeado:**
 <img src="screenshots/home.jpg" alt="home" width="800" height="400" />
 
-*Screenshot de la Home/Inicio estando logeado:*
+**Screenshot de la Home/Inicio estando logeado:**
 <img src="screenshots/homelogin.jpg" alt="homelogin" width="800" height="400" />
 
-*Screenshot de Noticias:*
+**Screenshot de Noticias:**
 <img src="screenshots/noticias.jpg" alt="noticias" width="800" height="400" />
 
-*Screenshot de sección Noticias ejemplo:*
+**Screenshot de sección Noticias ejemplo:**
 <img src="screenshots/noticiastelam.jpg" alt="noticiastelam" width="800" height="400" />
 
-*Screenshot de Contacto sin estar login:*
+**Screenshot de Contacto sin estar login:**
 <img src="screenshots/contacto.jpg" alt="contacto" width="800" height="400" />
 
-*Screenshot de Contacto estando logeado:*
+**Screenshot de Contacto estando logeado:**
 <img src="screenshots/contactologin.jpg" alt="contactologin" width="800" height="400" />
 
-*Screenshot de Barras Dolar:*
+**Screenshot de Barras Dolar:**
 <img src="screenshots/dolarbarras.jpg" alt="dolarbarras" width="800" height="400" />
 
-*Screenshot de Tabla Dolar:*
+**Screenshot de Tabla Dolar:**
 <img src="screenshots/dolartabla.jpg" alt="dolartabla" width="800" height="400" />
 
-*Screenshot del Login:*
+**Screenshot del Login:**
 <img src="screenshots/login.jpg" alt="login" width="800" height="400" />
 
-*Screenshot del Registro:*
+**Screenshot del Registro:**
 <img src="screenshots/registrarse.jpg" alt="registrarse" width="800" height="400" />
 
-*Screenshot del Perfil:*
+**Screenshot del Perfil:**
 <img src="screenshots/perfil.jpg" alt="perfil" width="800" height="400" />
 
 ----
