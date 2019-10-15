@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="screenshots/logo.png" alt="logo" width="400" />
+    <img src="screenshots/logo.jpg" alt="logo" width="400" />
   <br>
   InvertirArgentina
   <br>
@@ -22,7 +22,7 @@ Página con temática sobre economía y finanzas. Con recolección de datos, sis
 **Puedes Visitar la [Página de Testeo de Firebase](https://invertirargentina-cf94f.firebaseapp.com/), [Alternativa AppFirebase](https://invertirargentina-cf94f.web.app/) o [Alternativa GitHubPages](https://peterdamiang.github.io/InvertirArgentina/) donde se realiza el desarrollo.**
 > En esas URL, se puede observar el funcionamiento de la webapp, en mínimo corriendo sobre las plataformas de Firebase y GitHubPages.
 
-En caso de querer reformar el sistema o revisarlo más a gusto. Puedes clonar el repositorio o descargarlo para manejarlo a gusto.
+En caso de querer reformar el sistema o revisarlo más a gusto. Puedes clonar el repositorio o descargarlo para manejarlo.
 
 Clonar:
 ```
@@ -31,7 +31,7 @@ $ git clone https://github.com/PeterDamianG/InvertirArgentina.git
 Descarga:
 [Branch Master](https://github.com/PeterDamianG/InvertirArgentina/archive/master.zip)
 
-> Para configurar necesitara conocimientos en React y Firebase.
+> Para configurar necesitaras conocimientos en React y Firebase.
 
 ----
 
@@ -71,39 +71,40 @@ Ya podrá probarlo en su propio entorno.
 ----
 
 ## Screenshots - Imágenes
+Imágenes reducidas para mejor manejo del Readme, si deseas revisar las originales ve a: [Imágenes](https://github.com/PeterDamianG/InvertirArgentina/tree/master/screenshots)
 
-Screenshot de la Home/Inicio sin estar logeado:
-<img src="screenshots/home.jpg" alt="home" width="800" height="800" />
+*Screenshot de la Home/Inicio sin estar logeado:*
+<img src="screenshots/home.jpg" alt="home" width="800" height="400" />
 
-Screenshot de la Home/Inicio estando logeado:
-<img src="screenshots/homelogin.jpg" alt="homelogin" width="800" height="800" />
+*Screenshot de la Home/Inicio estando logeado:*
+<img src="screenshots/homelogin.jpg" alt="homelogin" width="800" height="400" />
 
-Screenshot de Noticias:
-<img src="screenshots/noticias.jpg" alt="noticias" width="800" height="800" />
+*Screenshot de Noticias:*
+<img src="screenshots/noticias.jpg" alt="noticias" width="800" height="400" />
 
-Screenshot de sección Noticias ejemplo:
-<img src="screenshots/noticiastelam.jpg" alt="noticiastelam" width="800" height="800" />
+*Screenshot de sección Noticias ejemplo:*
+<img src="screenshots/noticiastelam.jpg" alt="noticiastelam" width="800" height="400" />
 
-Screenshot de Contacto sin estar login:
-<img src="screenshots/contacto.jpg" alt="contacto" width="800" height="800" />
+*Screenshot de Contacto sin estar login:*
+<img src="screenshots/contacto.jpg" alt="contacto" width="800" height="400" />
 
-Screenshot de Contacto estando logeado:
-<img src="screenshots/contactologin.jpg" alt="contactologin" width="800" height="800" />
+*Screenshot de Contacto estando logeado:*
+<img src="screenshots/contactologin.jpg" alt="contactologin" width="800" height="400" />
 
-Screenshot de Barras Dolar:
-<img src="screenshots/dolarbarras.jpg" alt="dolarbarras" width="800" height="800" />
+*Screenshot de Barras Dolar:*
+<img src="screenshots/dolarbarras.jpg" alt="dolarbarras" width="800" height="400" />
 
-Screenshot de Tabla Dolar:
-<img src="screenshots/dolartabla.jpg" alt="dolartabla" width="800" height="800" />
+*Screenshot de Tabla Dolar:*
+<img src="screenshots/dolartabla.jpg" alt="dolartabla" width="800" height="400" />
 
-Screenshot del Login:
-<img src="screenshots/login.jpg" alt="login" width="800" height="800" />
+*Screenshot del Login:*
+<img src="screenshots/login.jpg" alt="login" width="800" height="400" />
 
-Screenshot del Registro:
-<img src="screenshots/registrarse.jpg" alt="registrarse" width="800" height="800" />
+*Screenshot del Registro:*
+<img src="screenshots/registrarse.jpg" alt="registrarse" width="800" height="400" />
 
-Screenshot del Perfil:
-<img src="screenshots/perfil.jpg" alt="perfil" width="800" height="800" />
+*Screenshot del Perfil:*
+<img src="screenshots/perfil.jpg" alt="perfil" width="800" height="400" />
 
 ----
 
@@ -111,7 +112,8 @@ Screenshot del Perfil:
 
 **Importante: En GitHub Pages, el redireccionamiento nos manda a la página de error, sólo ocurre bajo el sistema de GitHub Pages. En entornos privados, publico y Firebase Hosting, no existe este problema.**
 
-[ChangeLogs and Issues - Registro de Cambios y Problemas](CHANGELOGS.md)
+*Para más información dirigirse al registro de cambios*
+[Registro de Cambios y Problemas](CHANGELOGS.md)
 
 ----
 
@@ -129,8 +131,8 @@ Screenshot del Perfil:
 
 ##### Gracias a
 
-- La página oficial de Datos.gob.ar, por su servicio brindados.
-- Todos los legítimos dueños de las tecnologías de código libres utilizadas.
+- La página oficial de Datos.gob.ar, por su servicios brindados.
+- Todos los legítimos dueños de las tecnologías de código libres/privadas utilizadas.
 
 ----
 
