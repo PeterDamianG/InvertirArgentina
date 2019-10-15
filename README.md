@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="screenshots/logo.jpg" alt="logo" width="400" />
+    <img src="screenshots/logo.jpg" alt="logo" width="250" height="250" />
   <br>
   InvertirArgentina
   <br>
