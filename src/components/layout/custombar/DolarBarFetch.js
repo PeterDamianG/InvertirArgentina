@@ -7,7 +7,7 @@ import useDataApi from 'use-data-api';
 const DolarBarFetch = () => {
   //Uso de la herramienta de fetching.
   const [{ data, isLoading, isError }] = useDataApi(
-    'http://ws.geeklab.com.ar/dolar/get-dolar-json.php', //URL a fetchear.
+    'https://ws.geeklab.com.ar/dolar/get-dolar-json.php', //URL a fetchear.
     {}, //Variable iniciar a almacenar, nombre 'data'.
   );
   //Renderizado del componente.
